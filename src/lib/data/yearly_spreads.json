@@ -1,0 +1,446 @@
+[
+  {
+    "card": "2D",
+    "age": 35,
+    "mercury": {
+      "direct": "KC",
+      "vertical": "3C"
+    },
+    "venus": {
+      "direct": "KS",
+      "vertical": "JC"
+    },
+    "mars": {
+      "direct": "KH",
+      "vertical": "5S"
+    },
+    "jupiter": {
+      "direct": "2H",
+      "vertical": "10C"
+    },
+    "saturn": {
+      "direct": "9S",
+      "vertical": "6D"
+    },
+    "uranus": {
+      "direct": "3H",
+      "vertical": "4S"
+    },
+    "neptune": {
+      "direct": "QH",
+      "vertical": "9S"
+    },
+    "longRange": "JC",
+    "pluto": "3S",
+    "result": "6H",
+    "environment": "7H",
+    "displacement": "10C"
+  },
+  {
+    "card": "6D",
+    "age": 35,
+    "mercury": {
+      "direct": "9C",
+      "vertical": "4S"
+    },
+    "venus": {
+      "direct": "7H",
+      "vertical": "9S"
+    },
+    "mars": {
+      "direct": "6C",
+      "vertical": "2D"
+    },
+    "jupiter": {
+      "direct": "8C",
+      "vertical": "3C"
+    },
+    "saturn": {
+      "direct": "QS",
+      "vertical": "JC"
+    },
+    "uranus": {
+      "direct": "AD",
+      "vertical": "5S"
+    },
+    "neptune": {
+      "direct": "10C",
+      "vertical": null
+    },
+    "longRange": "4C",
+    "pluto": "6S",
+    "result": "7S",
+    "environment": "QS",
+    "displacement": "6H"
+  },
+  {
+    "card": "QD",
+    "age": 35,
+    "mercury": {
+      "direct": "4D",
+      "vertical": "4C"
+    },
+    "venus": {
+      "direct": "6D",
+      "vertical": "KH"
+    },
+    "mars": {
+      "direct": "9C",
+      "vertical": "AH"
+    },
+    "jupiter": {
+      "direct": "7H",
+      "vertical": "2S"
+    },
+    "saturn": {
+      "direct": "6C",
+      "vertical": "JD"
+    },
+    "uranus": {
+      "direct": "8C",
+      "vertical": "QS"
+    },
+    "neptune": {
+      "direct": "QS",
+      "vertical": null
+    },
+    "longRange": "AS",
+    "pluto": "AD",
+    "result": "10C",
+    "environment": "JD",
+    "displacement": "KH"
+  },
+  {
+    "card": "QC",
+    "age": 32,
+    "mercury": {
+      "direct": "9H",
+      "vertical": "2C"
+    },
+    "venus": {
+      "direct": "6S",
+      "vertical": "4H"
+    },
+    "mars": {
+      "direct": "3S",
+      "vertical": "JH"
+    },
+    "jupiter": {
+      "direct": "KH",
+      "vertical": "2D"
+    },
+    "saturn": {
+      "direct": "QS",
+      "vertical": "9S"
+    },
+    "uranus": {
+      "direct": "6D",
+      "vertical": "5S"
+    },
+    "neptune": {
+      "direct": "10H",
+      "vertical": null
+    },
+    "longRange": "5C",
+    "pluto": "5C",
+    "result": "9D",
+    "environment": "AS",
+    "displacement": "3S"
+  },
+  {
+    "card": "AC",
+    "age": 32,
+    "mercury": {
+      "direct": "AS",
+      "vertical": "JS"
+    },
+    "venus": {
+      "direct": "2D",
+      "vertical": "QS"
+    },
+    "mars": {
+      "direct": "4S",
+      "vertical": "10C"
+    },
+    "jupiter": {
+      "direct": "QH",
+      "vertical": "8S"
+    },
+    "saturn": {
+      "direct": "5H",
+      "vertical": "JC"
+    },
+    "uranus": {
+      "direct": "4D",
+      "vertical": "7D"
+    },
+    "neptune": {
+      "direct": "7D",
+      "vertical": null
+    },
+    "longRange": "6S",
+    "pluto": "7C",
+    "result": "JH",
+    "environment": null,
+    "displacement": null
+  },
+  {
+    "card": "JC",
+    "age": 32,
+    "mercury": {
+      "direct": "10S",
+      "vertical": "7D"
+    },
+    "venus": {
+      "direct": "4H",
+      "vertical": "AC"
+    },
+    "mars": {
+      "direct": "KD",
+      "vertical": "JS"
+    },
+    "jupiter": {
+      "direct": "2S",
+      "vertical": "QS"
+    },
+    "saturn": {
+      "direct": "8C",
+      "vertical": "10C"
+    },
+    "uranus": {
+      "direct": "3H",
+      "vertical": "8S"
+    },
+    "neptune": {
+      "direct": "8S",
+      "vertical": null
+    },
+    "longRange": "5D",
+    "pluto": "8D",
+    "result": "2C",
+    "environment": "QS",
+    "displacement": "KD"
+  },
+  {
+    "card": "JH",
+    "age": 35,
+    "mercury": {
+      "direct": "10D",
+      "vertical": "3H"
+    },
+    "venus": {
+      "direct": "9D",
+      "vertical": "KC"
+    },
+    "mars": {
+      "direct": "AC",
+      "vertical": "5C"
+    },
+    "jupiter": {
+      "direct": "QD",
+      "vertical": "5H"
+    },
+    "saturn": {
+      "direct": "4D",
+      "vertical": "8D"
+    },
+    "uranus": {
+      "direct": "6D",
+      "vertical": "6S"
+    },
+    "neptune": {
+      "direct": "9C",
+      "vertical": null
+    },
+    "longRange": "10H",
+    "pluto": "7H",
+    "result": "6C",
+    "environment": null,
+    "displacement": null
+  },
+  {
+    "card": "2H",
+    "age": 35,
+    "mercury": {
+      "direct": "9S",
+      "vertical": "4H"
+    },
+    "venus": {
+      "direct": "3H",
+      "vertical": "JS"
+    },
+    "mars": {
+      "direct": "QH",
+      "vertical": "10S"
+    },
+    "jupiter": {
+      "direct": "3S",
+      "vertical": "AD"
+    },
+    "saturn": {
+      "direct": "6H",
+      "vertical": "4D"
+    },
+    "uranus": {
+      "direct": "4C",
+      "vertical": "9H"
+    },
+    "neptune": {
+      "direct": "9H",
+      "vertical": null
+    },
+    "longRange": "JS",
+    "pluto": "4S",
+    "result": "JH",
+    "environment": null,
+    "displacement": null
+  },
+  {
+    "card": "QH",
+    "age": 35,
+    "mercury": {
+      "direct": "3S",
+      "vertical": "KS"
+    },
+    "venus": {
+      "direct": "6H",
+      "vertical": "8H"
+    },
+    "mars": {
+      "direct": "4C",
+      "vertical": "3D"
+    },
+    "jupiter": {
+      "direct": "9H",
+      "vertical": "7D"
+    },
+    "saturn": {
+      "direct": "4S",
+      "vertical": "7S"
+    },
+    "uranus": {
+      "direct": "JH",
+      "vertical": "7H"
+    },
+    "neptune": {
+      "direct": "10D",
+      "vertical": null
+    },
+    "longRange": "8C",
+    "pluto": "9D",
+    "result": "AC",
+    "environment": "QC",
+    "displacement": "5C"
+  },
+  {
+    "card": "4S",
+    "age": 31,
+    "mercury": {
+      "direct": "3C",
+      "vertical": "JH"
+    },
+    "venus": {
+      "direct": "6S",
+      "vertical": "6C"
+    },
+    "mars": {
+      "direct": "8C",
+      "vertical": "KH"
+    },
+    "jupiter": {
+      "direct": "AH",
+      "vertical": "10H"
+    },
+    "saturn": {
+      "direct": "KC",
+      "vertical": "JC"
+    },
+    "uranus": {
+      "direct": "QS",
+      "vertical": "3H"
+    },
+    "neptune": {
+      "direct": "AS",
+      "vertical": null
+    },
+    "longRange": "7C",
+    "pluto": "9D",
+    "result": "7S",
+    "environment": "KC",
+    "displacement": "4C"
+  },
+  {
+    "card": "AD",
+    "age": 31,
+    "mercury": {
+      "direct": "4C",
+      "vertical": "10C"
+    },
+    "venus": {
+      "direct": "AC",
+      "vertical": "KS"
+    },
+    "mars": {
+      "direct": "5C",
+      "vertical": "5D"
+    },
+    "jupiter": {
+      "direct": "JD",
+      "vertical": "5H"
+    },
+    "saturn": {
+      "direct": "4H",
+      "vertical": "7D"
+    },
+    "uranus": {
+      "direct": "4S",
+      "vertical": "9D"
+    },
+    "neptune": {
+      "direct": "3C",
+      "vertical": null
+    },
+    "longRange": "2D",
+    "pluto": "6S",
+    "result": "8C",
+    "environment": "KD",
+    "displacement": "9C"
+  },
+  {
+    "card": "JS",
+    "age": 31,
+    "mercury": {
+      "direct": "3S",
+      "vertical": "KC"
+    },
+    "venus": {
+      "direct": "3H",
+      "vertical": "JD"
+    },
+    "mars": {
+      "direct": "7D",
+      "vertical": "9H"
+    },
+    "jupiter": {
+      "direct": "9S",
+      "vertical": "2H"
+    },
+    "saturn": {
+      "direct": "6D",
+      "vertical": "7C"
+    },
+    "uranus": {
+      "direct": "2C",
+      "vertical": "10D"
+    },
+    "neptune": {
+      "direct": "10D",
+      "vertical": null
+    },
+    "longRange": "KD",
+    "pluto": "9C",
+    "result": "JC",
+    "environment": "6S",
+    "displacement": "5H"
+  }
+]

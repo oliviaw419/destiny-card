@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ink: #1a1a2e;
+  --card: #16213e;
+  --border: #0f3460;
+  --gold: #e2b96f;
+  --gold-dim: #a07840;
+  --cream: #f5f0e8;
+  --cream-dim: #c8bfaa;
+  --red: #c0392b;
+}
+
+body {
+  background-color: var(--ink);
+  color: var(--cream);
+  font-family: system-ui, sans-serif;
+}
+
+.card-red { color: var(--red); }
+.card-black { color: var(--cream); }
